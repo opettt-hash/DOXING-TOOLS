@@ -14,6 +14,8 @@ Tools ini menggabungkan lebih dari **80 fitur** OSINT dengan basis data Api Publ
 
 ---
 
+<img src="assets/puki.jpg" alt="IP Result" width="65%">
+
 ## Fitur Utama 🔥
 
 Berikut adalah daftar lengkap semua fitur yang tersedia di tools ini:
